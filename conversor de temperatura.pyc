@@ -1,0 +1,3 @@
+graus =  float(input('informe a temperatura em c°'))
+f = ((9 * graus) / 5) + 32
+print('a temperatura de {}C° equivale a {}F°!'.format(graus, f))
